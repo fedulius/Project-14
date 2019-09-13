@@ -8,10 +8,10 @@ class ViewControllerForTable: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        saveInUD()
     }
     
     override func viewDidAppear(_ animated: Bool) {
-        saveInUD()
         forecastTable.reloadData()
     }
     
