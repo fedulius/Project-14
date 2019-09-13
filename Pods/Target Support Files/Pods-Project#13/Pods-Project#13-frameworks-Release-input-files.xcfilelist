@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Project#13/Pods-Project#13-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
